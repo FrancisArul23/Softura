@@ -1,31 +1,44 @@
 # Unity Project Documentation
+
 ## Project Overview
 
-**Project Name**: FairSide Project
-**Unity Version**: 2020.3.25f1
+- **Project Name**: Softura Interview Task
+- **Unity Version**: 2022.3.7f1
+
 ## Table of Contents
 
-[Introduction](#introduction)
-[Scenes](#scenes)
-[Build Settings](#build-settings)
-[Conclusion](#Conclusion)
-## Introduction
-Fairside Stories is a collection of story-based role-playing games for kids where they make tough choices,
-observe the outcomes of their decisions and learn about their values
-Game Site - https://www.fairsidestories.com
-## Scenes
-List the scenes in your Unity project.
-### MainScene.unity
+1. [Task Overview](#task-overview)
+2. [Scenes](#scenes)
+3. [Build Settings](#build-settings)
+4. [Conclusion](#Conclusion)
 
-Description: The main game scene where gameplay takes place.
-Notes: Make sure to set the player's starting position and initial game state here.
+## Task Overview
+1. Write a C# code snippet to create a Unity function that moves a GameObject forward when a specific button (e.g., the "W" key) is pressed.
+2. Develop a Unity script that changes the color of a GameObject when it's within a certain proximity to another GameObject. Provide both the C# script and the Unity scene setup.
+3. Create a Unity scene with a basic VR environment (e.g., a room) and implement a feature that allows the user to pick up and move objects within the scene using VR controllers. Provide the C# script and a brief description of the components used.
+
+## Scenes
+
+List the scenes in your Unity project.
+
+### GamePlay.unity
+
+- Description: The main game scene where gameplay takes place. The User can move the football with WASD controls. When the ball is in a certain proximity level with the table the color of the table gets changed.
+- W - Forward
+- S - Backward
+- A - Left
+- R - Right
+
+### Oculus scene
+
+
 ## Build Settings
 
-**Platform**: Android, IOS
-**Resolution**: target resolution (e.g., 1920x1080)
-**Orientation**: Portrait (for mobile)
-**Firebase**: Firestore, Database, Auth, Analytics, App, Storage, Messaging (8.1.0)
-**AppsFlyer**: Version - ()
-**Facebook**: Auth
+- **Platform**: Android
+- **Resolution**: target resolution (e.g., 1920x1080)
+- **Orientation**: Landscape
+
+
 ## Conclusion
-Unity project documentation by summarizing the main points and providing any additional information or notes that may be relevant to the project's development and maintenance.
+
+I have completed the given task and have uploaded it here. Please do check it out. If you have any queries or feedbacks please do reach out at  <a href="mailto:francisarul.work@gmail.com?">francisarul.work@gmail.com</a>.
