@@ -29,9 +29,6 @@ List the scenes in your Unity project.
 - A - Left
 - R - Right
 
-### Oculus scene
-
-
 ## Build Settings
 
 - **Platform**: Android
