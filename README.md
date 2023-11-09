@@ -27,7 +27,7 @@ List the scenes in your Unity project.
 - W - Forward
 - S - Backward
 - A - Left
-- R - Right
+- R - Right.
 
 ## Build Settings
 
